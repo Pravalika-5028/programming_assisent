@@ -120,15 +120,3 @@ To swap the model, update the `id` field in `main.py` with any model you have pu
 - Agent responses may vary based on the model used and prompt complexity.
 
 ---
-
-## 📄 License
-
-MIT License. Feel free to use, modify, and distribute.
-
----
-
-## 🙌 Acknowledgements
-
-- [PhiData](https://github.com/phidatahq/phidata) for the agent framework
-- [Ollama](https://ollama.com/) for local LLM inference
-- [Streamlit](https://streamlit.io/) for the UI
